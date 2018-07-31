@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <!-- Bootstrap 3.3.5 -->
+        <link rel="stylesheet" href="template/bootstrap/css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="template/plugins/font-awesome-4.6.3/css/font-awesome.min.css">
+        <!-- jQuery 2.1.4 -->
+        <script src="template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+         <!-- Ionicons -->
+        <link href="template/bootstrap/css/ionicons.min.css" rel="stylesheet" type="text/css"/>
+        <!-- Theme style -->
+        <link rel="stylesheet" href="template/dist/css/AdminLTE.min.css">
+        <!-- AdminLTE Skins. Choose a skin from the css/skins
+             folder instead of downloading all of them to reduce the load. -->
+        <link rel="stylesheet" href="template/dist/css/skins/_all-skins.min.css">
+        <!-- iCheck -->
+        <link rel="stylesheet" href="template/plugins/iCheck/flat/blue.css">
+        <!-- iCheck for checkboxes and radio inputs -->
+        <link rel="stylesheet" href="template/plugins/iCheck/all.css">
+    </head>
+<body class="hold-transition login-page">
+    <div class="login-box">
+      <div class="login-logo">
+          <a href="#"><h2><b style="color: blue">RM-Loei System</b></h2></a>
+      </div><!-- /.login-logo -->
+      <div class="login-box-body">
+        <p class="login-box-msg">เข้าสู่ระบบเพื่อเริ่มใช้งาน</p>
+        <form id="frmlogin" name="frmlogin" method="post">
+          <div class="form-group has-feedback">
+              <input type="text" class="form-control" placeholder="Username" name="user_account" required>
+            <span class="glyphicon glyphicon-user form-control-feedback"></span>
+          </div>
+          <div class="form-group has-feedback">
+              <input type="password" class="form-control" placeholder="Password" name="user_pwd" required>
+            <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+             <button type="submit" class="btn btn-primary btn-block btn-flat">เข้าสู่ระบบ</button>
+            </div><!-- /.col -->
+          </div>
+        </form>
+
+      </div><!-- /.login-box-body -->
+    </div><!-- /.login-box -->
+
+    <!-- jQuery 2.1.4 -->
+    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <!-- Bootstrap 3.3.5 -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <!-- iCheck -->
+    <script src="plugins/iCheck/icheck.min.js"></script>
+    <script type="text/javascript">
+            $.getJSON('JsonData/up_header.php',function (data) {
+              $("head").prepend($("<title></title>").text("ระบบว่าง"),$("<link rel='SHORTCUT ICON' href='"+data.logo+"'>"));  
+          });
+    </script>
+    <script type="text/javascript">
+    $(function () {
+        $("button:submit").click(function(e) {
+                                        e.preventDefault();
+        				$.ajax({
+					   type: "POST",
+					   url: "process/check_login.php",
+                                           data: $("#frmlogin").serialize(),
+					   success: function(result) {
+                                               if(result!=''){
+                                                   alert(result);
+                                                   $("#frmlogin").find('input:text, input:password').val('');
+                                               }else{
+                                               KillMe();self.focus();window.opener.location.reload();
+                                           }
+					   }
+					 });
+                    });
+    });
+    </script>
+    <script language="JavaScript" type="text/javascript">
+            var StayAlive = 1; // เวลาเป็นวินาทีที่ต้องการให้ WIndows เปิดออก 
+            function KillMe()
+            {
+                setTimeout("self.close()", StayAlive * 1000);
+            }
+        </script>
+  </body>
+</html>
