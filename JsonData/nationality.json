@@ -1,0 +1,748 @@
+{
+    "RECORDS": [
+        {
+            "name": "ไม่ระบุ",
+            "nationality": "00",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อังกฤษ",
+            "nationality": "01",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ปอร์ตุเกส",
+            "nationality": "02",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เนเธอร์แลนด์",
+            "nationality": "03",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เยอรมัน",
+            "nationality": "04",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ผรั่งเศส",
+            "nationality": "05",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เดนมาร์ก",
+            "nationality": "06",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "สวีเดน",
+            "nationality": "07",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "สวีสเซอร์แลนด์",
+            "nationality": "08",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อิตาลี",
+            "nationality": "09",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "นอร์เวย์",
+            "nationality": "10",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ออสเตรีย",
+            "nationality": "11",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไอร์แลนด์",
+            "nationality": "12",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ฟินแลนด์",
+            "nationality": "13",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เบลเยี่ยม",
+            "nationality": "14",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เสปญ",
+            "nationality": "15",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "รัสเซีย",
+            "nationality": "16",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "โปแลนด์",
+            "nationality": "17",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เชคโกสโลวาเกีย",
+            "nationality": "18",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ฮังการี",
+            "nationality": "19",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "กรีก",
+            "nationality": "20",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ยูโกสลาเวีย",
+            "nationality": "21",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ลักเซมเบอร์ก",
+            "nationality": "22",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "วาติกัน",
+            "nationality": "23",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "มอลต้า",
+            "nationality": "24",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อัลบาเนีย",
+            "nationality": "25",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "บัลกาเรีย",
+            "nationality": "26",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "รูเมเนีย",
+            "nationality": "27",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไซปรัส",
+            "nationality": "28",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อเมริกา",
+            "nationality": "29",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "คานาดา",
+            "nationality": "30",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เม็กซิโก",
+            "nationality": "31",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "คิวบา",
+            "nationality": "32",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อาร์เจนตินา",
+            "nationality": "33",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "บราซิล",
+            "nationality": "34",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ชิลี",
+            "nationality": "35",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อีคัวดอร์",
+            "nationality": "36",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "โคลัมเบีย",
+            "nationality": "37",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "บาร์บาดอส",
+            "nationality": "38",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เปรู",
+            "nationality": "39",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ปานามา",
+            "nationality": "40",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อุรุกวัย",
+            "nationality": "41",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เวเนสุเอล่า",
+            "nationality": "42",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เปอร์โตริโก้",
+            "nationality": "43",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "จีน",
+            "nationality": "44",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อินเดีย",
+            "nationality": "45",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เวียดนาม",
+            "nationality": "46",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ญี่ปุ่น",
+            "nationality": "47",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "พม่า",
+            "nationality": "48",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ฟิลิปปินส์",
+            "nationality": "49",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "มาเลเซีย",
+            "nationality": "50",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อินโดนีเซีย",
+            "nationality": "51",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ปากีสถาน",
+            "nationality": "52",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เกาหลี",
+            "nationality": "53",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "สิงคโปร์",
+            "nationality": "54",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เนปาล",
+            "nationality": "55",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ลาว",
+            "nationality": "56",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "กัมพูชา",
+            "nationality": "57",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ศรีลังกา",
+            "nationality": "58",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ซาอุดิอารเบีย",
+            "nationality": "59",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อิสราเอล",
+            "nationality": "60",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เลบานอน",
+            "nationality": "61",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อิหร่าน (เปอร์เซีย)",
+            "nationality": "62",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เตอร์กี",
+            "nationality": "63",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "บังคลาเทศ",
+            "nationality": "64",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อาหรับ",
+            "nationality": "65",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ซีเรีย",
+            "nationality": "66",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อิรัค",
+            "nationality": "67",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "คูเวต",
+            "nationality": "68",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "บรูไน",
+            "nationality": "69",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อาฟริกาใต้",
+            "nationality": "70",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ยูดาน",
+            "nationality": "71",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ตูนีเซีย",
+            "nationality": "72",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เคนยา",
+            "nationality": "73",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อียิปต์",
+            "nationality": "74",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เอธิโอเปีย",
+            "nationality": "75",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ออสเตรเลีย",
+            "nationality": "79",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "นิวซีแลนด์",
+            "nationality": "80",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ชาวเขาที่ไม่ได้สัญชาติไทย",
+            "nationality": "84",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ญวนอพยพ",
+            "nationality": "85",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "จีนฮ่อ",
+            "nationality": "86",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อดีตทหารจีนคณะชาติ",
+            "nationality": "87",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "พม่าพลัดถิ่น",
+            "nationality": "88",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "เขมรเกาะกงกัมพูชา",
+            "nationality": "89",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ผู้อพยพอินโดจีนสัญชาติลาว",
+            "nationality": "90",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ผู้อพยพอินโดจีนสัญชาติกัมพูชา",
+            "nationality": "91",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ผู้อพยพอินโดจีนสัญชาติเวียดนาม",
+            "nationality": "92",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไทย-อิสลาม, อิสลาม-ไทย",
+            "nationality": "94",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไทย-จีน, จีน-ไทย",
+            "nationality": "95",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไร้สัญชาติ",
+            "nationality": "96",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "อื่น ๆ",
+            "nationality": "97",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไม่ได้สัญชาติไทยตาม ปว.337",
+            "nationality": "98",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        },
+        {
+            "name": "ไทย",
+            "nationality": "99",
+            "nhso_code": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "inv_unuse": ""
+        }
+    ]
+}

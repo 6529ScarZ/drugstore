@@ -1,0 +1,46 @@
+{
+    "RECORDS": [
+        {
+            "religion": "00",
+            "name": "ไม่ระบุศาสนา",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "01",
+            "name": "พุทธ",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "02",
+            "name": "คริสต์",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "03",
+            "name": "อิสลาม",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "04",
+            "name": "ฮินดู",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "05",
+            "name": "พราหมณ์",
+            "nhso_code": "",
+            "hos_guid": ""
+        },
+        {
+            "religion": "06",
+            "name": "ศาสนาอื่นๆ",
+            "nhso_code": "",
+            "hos_guid": ""
+        }
+    ]
+}

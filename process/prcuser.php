@@ -1,10 +1,6 @@
 <?php
 session_save_path("../session/");
 session_start(); 
-if (empty($_SESSION['rm_status'])) {
-    echo "<meta http-equiv='refresh' content='0;url=../index.html'/>";
-    exit();
-}
 function __autoload($class_name) {
     include '../class/' . $class_name . '.php';
 }
@@ -27,15 +23,10 @@ $method = isset($_POST['method']) ? $_POST['method'] : $_GET['method'];
 if ($method == 'add_user') {
     $user_fname = $_POST['user_fname'];
     $user_lname = $_POST['user_lname'];
-    $dep_id = $_POST['dep_id'];
     $admin = $_POST['admin'];
     $user_name = filter_input(INPUT_POST, 'user_account',FILTER_SANITIZE_STRING);
     $user_account = md5(string_to_ascii(trim($user_name)));
     $user_pwd = md5(string_to_ascii(trim(filter_input(INPUT_POST, 'user_pwd',FILTER_SANITIZE_STRING))));
-    $sql = "SELECT main_dep FROM department WHERE dep_id=".$dep_id ;
-    $connDB->imp_sql($sql);
-    $result = $connDB->select_a();
-    $main_dep = $result['main_dep'];
     $newname = new upload_resizeimage("file", "../USERimgs", "USimage".date("dmYHis"));
     $img = $newname->upload(); 
     if($img != FALSE){
@@ -43,7 +34,7 @@ if ($method == 'add_user') {
     } else {
         $photo = '';
     }
-    $data = array($user_fname, $user_lname, $user_name, $user_account,$user_pwd, $dep_id,$main_dep,$admin,NULL,NULL,$photo);
+    $data = array($user_fname, $user_lname, $user_name, $user_account,$user_pwd,$admin,NULL,NULL,$photo);
     $table = "user";
     $add_user = $connDB->insert($table, $data);
     $connDB->close_PDO();
@@ -56,17 +47,10 @@ if ($method == 'add_user') {
     $user_id = $_POST['user_id'];
     $user_fname = $_POST['user_fname'];
     $user_lname = $_POST['user_lname'];
-    $dep_id = isset($_POST['dep_id'])?$_POST['dep_id']:'';
     $admin = isset($_POST['admin'])?$_POST['admin']:'';
     $user_name = filter_input(INPUT_POST, 'user_account',FILTER_SANITIZE_STRING);
     $user_account = md5(string_to_ascii(trim($user_name)));
     $user_pwd = $_POST['user_pwd']!=''?md5(string_to_ascii(trim(filter_input(INPUT_POST, 'user_pwd',FILTER_SANITIZE_STRING)))):'';
-    if(!empty($dep_id) && !empty($admin)){
-    $sql = "SELECT main_dep FROM department WHERE dep_id=".$dep_id ;
-    $connDB->imp_sql($sql);
-    $result = $connDB->select_a();
-    $main_dep = $result['main_dep'];
-    }
     if(empty($user_pwd)){
     $data = array($user_fname, $user_lname, $user_name, $user_account);
     $field=array("user_fname", "user_lname", "user_name", "user_account");
@@ -90,9 +74,9 @@ if ($method == 'add_user') {
                     array_push($field,"photo");
                 } 
 }    
-    if(!empty($dep_id) && !empty($admin)){
-                    array_push($data,$dep_id,$main_dep,$admin);
-                    array_push($field,"dep_id","main_dep","admin");
+    if(!empty($admin)){
+                    array_push($data,$admin);
+                    array_push($field,"admin");
                 } 
     $table = "user";
     $where="user_id=:user_id";

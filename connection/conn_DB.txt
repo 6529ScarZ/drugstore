@@ -1,6 +1,6 @@
 localhost
 root
 
-risk
+drugstore
 3306
 utf8

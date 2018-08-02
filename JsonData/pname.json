@@ -1,0 +1,1795 @@
+{
+    "RECORDS": [
+        {
+            "name": "ด.ช.",
+            "class": "11",
+            "sex": "1",
+            "provis_code": "001",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ด.ญ.",
+            "class": "22",
+            "sex": "2",
+            "provis_code": "002",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาย",
+            "class": "31",
+            "sex": "1",
+            "provis_code": "003",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ส.",
+            "class": "42",
+            "sex": "2",
+            "provis_code": "004",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาง",
+            "class": "52",
+            "sex": "2",
+            "provis_code": "005",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นช",
+            "class": "71",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ม.จ.",
+            "class": "1201",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ม.ร.ว.",
+            "class": "1211",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ม.ล.",
+            "class": "1221",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "คุณ",
+            "class": "1292",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "คุณหญิง",
+            "class": "1302",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ศจ.น.พ.",
+            "class": "1321",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.พ.",
+            "class": "1341",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ญ.",
+            "class": "1352",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ท.พ.",
+            "class": "1361",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ดร.",
+            "class": "1401",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "หม่อม",
+            "class": "1462",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.",
+            "class": "2001",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ท.",
+            "class": "2021",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ต",
+            "class": "2041",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.อ.พิเศษ",
+            "class": "2061",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.อ.",
+            "class": "2081",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.อ.",
+            "class": "2091",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ท.",
+            "class": "2101",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ท.",
+            "class": "2111",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.",
+            "class": "2121",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.",
+            "class": "2131",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.อ.",
+            "class": "2141",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.อ.",
+            "class": "2151",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ท.",
+            "class": "2161",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ท.",
+            "class": "2171",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.",
+            "class": "2181",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.",
+            "class": "2191",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.อ.",
+            "class": "2201",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.ท.",
+            "class": "2211",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.ต.",
+            "class": "2221",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.อ.",
+            "class": "2231",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ท.",
+            "class": "2241",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.",
+            "class": "2251",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลทหาร",
+            "class": "2261",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นนส.",
+            "class": "2281",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ม.ล.",
+            "class": "2521",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ท.น.พ.",
+            "class": "2711",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ร.ต.",
+            "class": "3551",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.อ.พิเศษ",
+            "class": "3571",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาเอก",
+            "class": "3591",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ น.อ.",
+            "class": "3601",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาโท",
+            "class": "3611",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ต.",
+            "class": "3631",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ น.ต.",
+            "class": "3641",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.อ.",
+            "class": "3711",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.ท.",
+            "class": "3721",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.ต.",
+            "class": "3731",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.อ.",
+            "class": "3741",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ท.",
+            "class": "3751",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ต.",
+            "class": "3761",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลฯทหารเรือ",
+            "class": "3771",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นรจ.",
+            "class": "3791",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ต.ม.ล.",
+            "class": "3891",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ต.พ.ญ.",
+            "class": "3911",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.อ.",
+            "class": "5001",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.ท.",
+            "class": "5021",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.ต.",
+            "class": "5041",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศเอก",
+            "class": "5081",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศโท",
+            "class": "5101",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศตรี",
+            "class": "5121",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่นาวาอากาศตรี",
+            "class": "5131",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศเอก",
+            "class": "5141",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศเอก",
+            "class": "5151",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศโท",
+            "class": "5161",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศโท",
+            "class": "5171",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศตรี",
+            "class": "5181",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศตรี",
+            "class": "5191",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศเอก",
+            "class": "5201",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศโท",
+            "class": "5211",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศตรี",
+            "class": "5221",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศเอก",
+            "class": "5231",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศโท",
+            "class": "5241",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศตรี",
+            "class": "5251",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลฯทหารอากาศ",
+            "class": "5261",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นักเรียนนายเรืออากาศ",
+            "class": "5271",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นักเรียนจ่าอากาศ",
+            "class": "5281",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ต.ต.",
+            "class": "6551",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.อ.",
+            "class": "6611",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.ท.",
+            "class": "6631",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.ท.",
+            "class": "6641",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.ต.",
+            "class": "6651",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.ต.",
+            "class": "6661",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.อ.",
+            "class": "6671",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.อ.",
+            "class": "6681",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ท.",
+            "class": "6691",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.ท.",
+            "class": "6701",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ต.",
+            "class": "6711",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.ต.",
+            "class": "6721",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ด.ต.",
+            "class": "6731",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.อ.",
+            "class": "6751",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.ท.",
+            "class": "6761",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.ต.",
+            "class": "6771",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นรต.",
+            "class": "6781",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจ",
+            "class": "6811",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสำรอง",
+            "class": "6841",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสำรองพิเศษ",
+            "class": "6851",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสมัคร",
+            "class": "6861",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระครูปลัด",
+            "class": "8121",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระสมุห์",
+            "class": "8161",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระครู",
+            "class": "8181",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระครูใบฎีกา",
+            "class": "8191",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระปริยัติ",
+            "class": "8281",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระอธิการ",
+            "class": "8301",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระ",
+            "class": "8311",
+            "sex": "1",
+            "provis_code": "831",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "สามเณร",
+            "class": "8321",
+            "sex": "1",
+            "provis_code": "832",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "บาทหลวง",
+            "class": "8381",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พระมหา",
+            "class": "8391",
+            "sex": "1",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "แม่ชี",
+            "class": "8632",
+            "sex": "2",
+            "provis_code": "863",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.หญิง",
+            "class": "2002",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ท.หญิง",
+            "class": "2022",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ตหญิง",
+            "class": "2042",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.อ.พิเศษหญิง",
+            "class": "2062",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.อ.หญิง",
+            "class": "2082",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.อ.หญิง",
+            "class": "2092",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ท.หญิง",
+            "class": "2102",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ท.หญิง",
+            "class": "2112",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.หญิง",
+            "class": "2122",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.หญิง",
+            "class": "2132",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.อ.หญิง",
+            "class": "2142",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.อ.หญิง",
+            "class": "2152",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ท.หญิง",
+            "class": "2162",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ท.หญิง",
+            "class": "2172",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.หญิง",
+            "class": "2182",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.หญิง",
+            "class": "2192",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.อ.หญิง",
+            "class": "2202",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.ท.หญิง",
+            "class": "2212",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ส.ต.หญิง",
+            "class": "2222",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.อ.หญิง",
+            "class": "2232",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ท.หญิง",
+            "class": "2242",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.หญิง",
+            "class": "2252",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลทหารหญิง",
+            "class": "2262",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นนส.หญิง",
+            "class": "2282",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ม.ล.หญิง",
+            "class": "2522",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ท.น.พ.หญิง",
+            "class": "2712",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ร.ต.หญิง",
+            "class": "3552",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.อ.พิเศษหญิง",
+            "class": "3572",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาเอกหญิง",
+            "class": "3592",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ น.อ.หญิง",
+            "class": "3602",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาโทหญิง",
+            "class": "3612",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ต.หญิง",
+            "class": "3632",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ น.ต.หญิง",
+            "class": "3642",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.อ.หญิง",
+            "class": "3712",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.ท.หญิง",
+            "class": "3722",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.จ.ต.หญิง",
+            "class": "3732",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.อ.หญิง",
+            "class": "3742",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ท.หญิง",
+            "class": "3752",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ.ต.หญิง",
+            "class": "3762",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลฯทหารเรือหญิง",
+            "class": "3772",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นรจ.หญิง",
+            "class": "3792",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "น.ต.ม.ล.หญิง",
+            "class": "3892",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.อ.หญิง",
+            "class": "5002",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.ท.หญิง",
+            "class": "5022",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.อ.ต.หญิง",
+            "class": "5042",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศเอกหญิง",
+            "class": "5082",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศโทหญิง",
+            "class": "5102",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นาวาอากาศตรีหญิง",
+            "class": "5122",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่นาวาอากาศตรีหญิง",
+            "class": "5132",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศเอกหญิง",
+            "class": "5142",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศเอกหญิง",
+            "class": "5152",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศโทหญิง",
+            "class": "5162",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศโทหญิง",
+            "class": "5172",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "เรืออากาศตรีหญิง",
+            "class": "5182",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่เรืออากาศตรีหญิง",
+            "class": "5192",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศเอกหญิง",
+            "class": "5202",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศโทหญิง",
+            "class": "5212",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พันจ่าอากาศตรีหญิง",
+            "class": "5222",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศเอกหญิง",
+            "class": "5232",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศโทหญิง",
+            "class": "5242",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "จ่าอากาศตรีหญิง",
+            "class": "5252",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลฯทหารอากาศหญิง",
+            "class": "5262",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นักเรียนนายเรืออากาศหญิง",
+            "class": "5272",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นักเรียนจ่าอากาศหญิง",
+            "class": "5282",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พล.ต.ต.หญิง",
+            "class": "6552",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.อ.หญิง",
+            "class": "6612",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.ท.หญิง",
+            "class": "6632",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.ท.หญิง",
+            "class": "6642",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พ.ต.ต.หญิง",
+            "class": "6652",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ พ.ต.ต.หญิง",
+            "class": "6662",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.อ.หญิง",
+            "class": "6672",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.อ.หญิง",
+            "class": "6682",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ท.หญิง",
+            "class": "6692",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.ท.หญิง",
+            "class": "6702",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ร.ต.ต.หญิง",
+            "class": "6712",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ว่าที่ ร.ต.ต.หญิง",
+            "class": "6722",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ด.ต.หญิง",
+            "class": "6732",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.อ.หญิง",
+            "class": "6752",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.ท.หญิง",
+            "class": "6762",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "ส.ต.ต.หญิง",
+            "class": "6772",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "นรต.หญิง",
+            "class": "6782",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจหญิง",
+            "class": "6812",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสำรองหญิง",
+            "class": "6842",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสำรองพิเศษหญิง",
+            "class": "6852",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        },
+        {
+            "name": "พลตำรวจสมัครหญิง",
+            "class": "6862",
+            "sex": "2",
+            "provis_code": "",
+            "hos_guid": "",
+            "hos_guid_ext": "",
+            "min_age": ""
+        }
+    ]
+}

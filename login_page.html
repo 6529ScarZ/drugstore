@@ -1,80 +1,74 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Smart Health</title>
+        <link rel='SHORTCUT ICON' href='images/logo.png'>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <!-- Bootstrap 3.3.5 -->
-        <link rel="stylesheet" href="template/bootstrap/css/bootstrap.min.css">
-        <!-- Font Awesome -->
-        <link rel="stylesheet" href="template/plugins/font-awesome-4.6.3/css/font-awesome.min.css">
-        <!-- jQuery 2.1.4 -->
-        <script src="template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
-         <!-- Ionicons -->
-        <link href="template/bootstrap/css/ionicons.min.css" rel="stylesheet" type="text/css"/>
-        <!-- Theme style -->
-        <link rel="stylesheet" href="template/dist/css/AdminLTE.min.css">
-        <!-- AdminLTE Skins. Choose a skin from the css/skins
-             folder instead of downloading all of them to reduce the load. -->
-        <link rel="stylesheet" href="template/dist/css/skins/_all-skins.min.css">
-        <!-- iCheck -->
-        <link rel="stylesheet" href="template/plugins/iCheck/flat/blue.css">
-        <!-- iCheck for checkboxes and radio inputs -->
-        <link rel="stylesheet" href="template/plugins/iCheck/all.css">
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="template/bootstrap-4.1.1/css/bootstrap.min.css" crossorigin="anonymous">
     </head>
-<body class="hold-transition login-page">
-    <div class="login-box">
-      <div class="login-logo">
-          <a href="#"><h2><b style="color: blue">RM-Loei System</b></h2></a>
-      </div><!-- /.login-logo -->
-      <div class="login-box-body">
-        <p class="login-box-msg">เข้าสู่ระบบเพื่อเริ่มใช้งาน</p>
+    <body style="background-color: #3a7230">
+    <div class="col-xl-12">
+      <center>
+          <h2><b style="color: white">Drug Store system.<p>v.1.0</p></b></h2>
+      <!-- /.login-logo -->
+      
+        <p  style="color: white">เข้าสู่ระบบเพื่อเริ่มใช้งาน</p>
         <form id="frmlogin" name="frmlogin" method="post">
           <div class="form-group has-feedback">
-              <input type="text" class="form-control" placeholder="Username" name="user_account" required>
+            <input type="text" class="form-control" placeholder="Username" name="user_account" required>
             <span class="glyphicon glyphicon-user form-control-feedback"></span>
           </div>
           <div class="form-group has-feedback">
-              <input type="password" class="form-control" placeholder="Password" name="user_pwd" required>
+            <input type="password" class="form-control" placeholder="Password" name="user_pwd" required>
             <span class="glyphicon glyphicon-lock form-control-feedback"></span>
           </div>
-          <div class="row">
+          
             <div class="col-xs-12">
-             <button type="submit" class="btn btn-primary btn-block btn-flat">เข้าสู่ระบบ</button>
+                <button type="submit" id="sublogin" class="btn btn-warning"><b style="color: white">เข้าสู่ระบบ</b></button>
             </div><!-- /.col -->
-          </div>
+          
         </form>
 
-      </div><!-- /.login-box-body -->
-    </div><!-- /.login-box -->
+      
+    </center></div><!-- /.login-box -->
 
     <!-- jQuery 2.1.4 -->
-    <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>
-    <!-- Bootstrap 3.3.5 -->
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <!-- iCheck -->
-    <script src="plugins/iCheck/icheck.min.js"></script>
-    <script type="text/javascript">
-            $.getJSON('JsonData/up_header.php',function (data) {
-              $("head").prepend($("<title></title>").text("ระบบว่าง"),$("<link rel='SHORTCUT ICON' href='"+data.logo+"'>"));  
-          });
-    </script>
+    <script src="template/jquery-3.3.1.min.js"></script>
+    <script src="template/jquery.cookie.js"></script>
+    <script src="template/bootstrap-4.1.1/js/bootstrap.min.js"></script>
     <script type="text/javascript">
     $(function () {
         $("button:submit").click(function(e) {
-                                        e.preventDefault();
-        				$.ajax({
-					   type: "POST",
-					   url: "process/check_login.php",
-                                           data: $("#frmlogin").serialize(),
-					   success: function(result) {
-                                               if(result!=''){
-                                                   alert(result);
-                                                   $("#frmlogin").find('input:text, input:password').val('');
-                                               }else{
-                                               KillMe();self.focus();window.opener.location.reload();
-                                           }
-					   }
-					 });
+        e.preventDefault();
+var settings = {
+  "async": true,
+  "crossDomain": true,
+  url: "process/check_login.php",
+  type: "POST",
+//   headers: {
+//     "Content-Type": "application/json",
+//     "Cache-Control": "no-cache"
+//    },
+  "processData": false,
+  data: $("#frmlogin").serialize()
+}
+//console.log(settings);
+//console.log($("#frmlogin").serialize())
+ $.ajax(settings).done(function (response) {
+    console.log(response); 
+    if(response.messege){
+        alert(response.messege);
+        $("#frmlogin").find('input:text, input:password').val('');
+    }else{
+        $.cookie("user_id", response.user_id);
+        $.cookie("user_status", response.status_user);
+        $.cookie("name", response.fullname);
+        $.cookie("photo", response.photo);
+        KillMe();self.focus();window.opener.location.reload();
+    }
+});
                     });
     });
     </script>

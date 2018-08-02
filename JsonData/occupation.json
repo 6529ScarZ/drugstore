@@ -1,0 +1,1264 @@
+{
+    "RECORDS": [
+        {
+            "name": "(-)",
+            "occupation": "000",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "สถาปนิก",
+            "occupation": "101",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "วิศวกร",
+            "occupation": "102",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักสำรวจ",
+            "occupation": "103",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเทคนิควิศวกรรม",
+            "occupation": "104",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักวิทยาศาสตร์",
+            "occupation": "105",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "แพทย์",
+            "occupation": "106",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ศัลยแพทย์",
+            "occupation": "107",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทันตแพทย์",
+            "occupation": "108",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "สัตวแพทย์",
+            "occupation": "109",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "อาจารย์มหาวิทยาลัย",
+            "occupation": "110",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "อาจารย์โรงเรียน",
+            "occupation": "111",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พยาบาล",
+            "occupation": "112",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "เภสัชกร",
+            "occupation": "113",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานทางเทคนิคการแพทย์",
+            "occupation": "114",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานที่ทำงานช่วยเหลือด้านการแพทย์",
+            "occupation": "115",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้พิพากษา",
+            "occupation": "116",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "อัยการ",
+            "occupation": "117",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ประติมากร",
+            "occupation": "118",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "จิตรกร",
+            "occupation": "119",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างศิลป์",
+            "occupation": "120",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างภาพ",
+            "occupation": "121",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักประพันธ์",
+            "occupation": "122",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักข่าว",
+            "occupation": "123",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักหนังสือพิมพ์",
+            "occupation": "124",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักแสดง",
+            "occupation": "125",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นางแบบ",
+            "occupation": "126",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักร้อง",
+            "occupation": "127",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักดนตรี",
+            "occupation": "128",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักสังคมสงเคราะห์",
+            "occupation": "129",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักสังคมวิทยา",
+            "occupation": "130",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักสถิติ",
+            "occupation": "131",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักเศรษฐศาสตร์",
+            "occupation": "132",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้สอนศาสนา",
+            "occupation": "133",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "อนุศาสนาจารย์",
+            "occupation": "134",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักบัญชี",
+            "occupation": "135",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานที่ใช้วิชาการอื่น ๆ",
+            "occupation": "136",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทนายความ",
+            "occupation": "137",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "หมอดู",
+            "occupation": "138",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "รับราชการ (ข้าราชการพลเรือน)",
+            "occupation": "201",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทหารบก",
+            "occupation": "202",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทหารเรือ",
+            "occupation": "203",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทหารอากาศ",
+            "occupation": "204",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ตำรวจ",
+            "occupation": "205",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ข้าราชการการเมือง",
+            "occupation": "206",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานหน่วยงานของรัฐอื่น ๆ",
+            "occupation": "207",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ข้าราชการบำนาญ",
+            "occupation": "208",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ลูกจ้างชั่วคราว",
+            "occupation": "209",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ลูกจ้างประจำ",
+            "occupation": "210",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "กำนัน",
+            "occupation": "211",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "สารวัตรกำนัน",
+            "occupation": "212",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ใหญ่บ้าน",
+            "occupation": "213",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ช่วยผู้ใหญ่บ้าน",
+            "occupation": "214",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "แพทย์ประจำตำบล",
+            "occupation": "215",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักการ-ภารโรง",
+            "occupation": "216",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้บริหารรัฐวิสาหกิจ",
+            "occupation": "301",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานรัฐวิสาหกิจ",
+            "occupation": "302",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานหน่วยงานรัฐวิสาหกิจอื่น ๆ",
+            "occupation": "303",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "เจ้าของกิจการ",
+            "occupation": "401",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานหน่วยงานเอกชน",
+            "occupation": "402",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "รับจ้าง",
+            "occupation": "403",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "กรรมกร",
+            "occupation": "404",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานหน่วยงานเอกชนอื่น ๆ",
+            "occupation": "405",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "เสมียน",
+            "occupation": "406",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "กสิกรรม",
+            "occupation": "501",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "เกษตรกรรม",
+            "occupation": "502",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทำนา",
+            "occupation": "503",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทำสวน",
+            "occupation": "504",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทำไร่",
+            "occupation": "505",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ทำฟาร์ม",
+            "occupation": "506",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ประมง",
+            "occupation": "507",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ล่าสัตว์",
+            "occupation": "508",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานด้านกสิกรรม เลี้ยงสัตว์อื่น ๆ",
+            "occupation": "509",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ค้าส่ง",
+            "occupation": "601",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ค้าปลีก",
+            "occupation": "602",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "หาบเร่",
+            "occupation": "603",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ตัวแทนจำหน่าย",
+            "occupation": "604",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานเกี่ยวกับการค้าอื่น ๆ",
+            "occupation": "605",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ค้าขาย",
+            "occupation": "606",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นายหน้า",
+            "occupation": "701",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานขาย",
+            "occupation": "702",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานโฆษณา",
+            "occupation": "703",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานประชาสัมพันธ์",
+            "occupation": "704",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานเสริฟ",
+            "occupation": "705",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานโรงแรม",
+            "occupation": "706",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานประจำสถานบริการ",
+            "occupation": "707",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "พนักงานขับรถเมล์",
+            "occupation": "708",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนขับรถรับจ้าง",
+            "occupation": "709",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนขับรถที่ใช้สัตว์ลากเทียม",
+            "occupation": "710",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนขับเรือ",
+            "occupation": "711",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนปรุงอาหาร",
+            "occupation": "712",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนเลี้ยงเด็ก",
+            "occupation": "713",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนรับใช้",
+            "occupation": "714",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนทำความสะอาด",
+            "occupation": "715",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "คนซักรีด",
+            "occupation": "716",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างตัดผม",
+            "occupation": "717",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเสริมสวย",
+            "occupation": "718",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานด้านบริการอื่น ๆ",
+            "occupation": "719",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้รักษาความปลอดภัย",
+            "occupation": "720",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างตัดเย็บเสื้อผ้า",
+            "occupation": "801",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเย็บหนัง",
+            "occupation": "802",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างซ่อมเครื่องไฟฟ้า",
+            "occupation": "803",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างซ่อมวิทยุโทรทัศน์",
+            "occupation": "804",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างซ่อมเครื่องยนต์",
+            "occupation": "805",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างอีเลคโทรนิคส์",
+            "occupation": "806",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเคาะพ่นสีรถยนต์",
+            "occupation": "807",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างซ่อมนาฬิกา",
+            "occupation": "808",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างทอง",
+            "occupation": "809",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเพชรพบอย",
+            "occupation": "810",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเหล็ก",
+            "occupation": "811",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างโลหะ",
+            "occupation": "812",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเชื่อมโลหะ",
+            "occupation": "813",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างหลอมโลหะ",
+            "occupation": "814",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างชุบโลหะ",
+            "occupation": "815",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างไม้",
+            "occupation": "816",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างเฟอร์นิเจอร์",
+            "occupation": "817",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างปูน",
+            "occupation": "818",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างทาสี",
+            "occupation": "819",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างพิมพ์",
+            "occupation": "820",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างทอ ปั่น จักสาน",
+            "occupation": "821",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างถ่ายรูป",
+            "occupation": "822",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ช่างล้างอัดรูป",
+            "occupation": "823",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ผู้ปฏิบัติงานด้านช่างอื่น ๆ",
+            "occupation": "824",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักเรียน นักศึกษา แม่บ้าน (ไม่ได้ทำงาน)",
+            "occupation": "900",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "นักบวช",
+            "occupation": "901",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        },
+        {
+            "name": "ในความปกครอง",
+            "occupation": "902",
+            "nhso_code": "",
+            "code506": "",
+            "hos_guid": "",
+            "zip09_code": "",
+            "hos_guid_ext": "",
+            "nhso_eclaim_occupation_code": ""
+        }
+    ]
+}

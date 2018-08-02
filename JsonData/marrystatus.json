@@ -1,0 +1,46 @@
+{
+    "RECORDS": [
+        {
+            "code": "1",
+            "name": "โสด",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        },
+        {
+            "code": "2",
+            "name": "คู่",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        },
+        {
+            "code": "3",
+            "name": "หม้าย",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        },
+        {
+            "code": "4",
+            "name": "หย่า",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        },
+        {
+            "code": "5",
+            "name": "ร้าง",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        },
+        {
+            "code": "6",
+            "name": "สมณะ",
+            "hos_guid": "",
+            "code506": "",
+            "nhso_marriage_code": ""
+        }
+    ]
+}
