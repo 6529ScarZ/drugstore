@@ -3,7 +3,7 @@ $("#createModal").empty().append("<div class='modal' id='AddUserModal' role='dia
                                     +"<div class='modal-dialog modal-lg' role='document'><div class='modal-content'><div class='modal-header'>"
                                     +"<h5 class='modal-title' id='AddUserModalLabel'></h5>"
                                     +"<button type='button' class='close' data-dismiss='modal' aria-label='Close'><span aria-hidden='true'>&times;</span></button></div>"
-                                    +"<form action='' name='frmadduser' id='frmadduser' method='post'>"
+                                    +"<form action='' name='frmadduser' id='frmadduser' method='post' enctype='multipart/form-data'>"
                                     +"<div class='modal-body' id='modelStore'><span id='Store_detail'></span></div>"
                                     +"<div class='modal-footer'></div></form></div></div></div>");
     $('#AddUserModal').on('show.bs.modal', function (event) {
@@ -54,20 +54,25 @@ $("#createModal").empty().append("<div class='modal' id='AddUserModal' role='dia
                                                                             alert("รหัสผ่านไม่ตรงกันครับ กรุณายืนยันอีกครับ");
                                                                             $("#con_password").attr("value","").focus();
                                                                             e.preventDefault();
-                                                                        }else{
-                                                        $.ajax({
-                                                                           type: "POST",
-                                                       url: "process/prcuser.php",
-                                                                           data: new FormData(this), // Data sent to server, a set of key/value pairs (i.e. form fields and values)
-                                                                           contentType: false, // The content type used when sending data to the server.
-                                                                           cache: false, // To unable request pages to be cached
-                                                                           processData: false,
-                                                       success: function(result) {
-                                                        alert(result);
+                                                                        }else{ e.preventDefault();
+                                                                            var settings = {
+                                                                                type: "POST",
+                                                                                url: "http://localhost/Drug_Store/API/prcuserAPI.php",
+                                                                                async: true,
+                                                                                crossDomain: true,
+                                                                                data: new FormData(this),
+                                                                                contentType: false,
+                                                                                cache: false,
+                                                                                processData: false
+                                                                              }                    
+                                                        $.ajax(settings).done(function (result) { 
                                                         modal.modal('hide')
-                                                                                //$("#index_content").empty().load('content/add_user.html');
-                                                       }
-                                                     });e.preventDefault();
+                                                        alert(result.messege);
+                                                        
+                                                        //$("#index_content").empty().load('content/add_user.html');
+                                                           
+                                                                            })
+                                                                             
                                                                      }
                                         }));                            
             }else{

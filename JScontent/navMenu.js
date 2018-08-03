@@ -12,7 +12,7 @@ $("nav#foot-nav").empty().append($("<span style='color: white'>Copyright &copy; 
                         $("#log").empty().append($("<li class='nav-item dropdown'>"
                         +"<a class='nav-link dropdown-toggle' href='#' id='navbarDropdownMenuLink' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>"+$.cookie("name")+"</a>"
                         +"<div id='list2' class='dropdown-menu dropdown-menu-right' aria-labelledby='navbarDropdownMenuLink'></div></li>"))
-                        console.log($.cookie("photo"))
+                        
                         if($.cookie("photo")){
                             var photo = "USERimgs/"+$.cookie("photo");
                         }else{
@@ -34,7 +34,7 @@ $("nav#foot-nav").empty().append($("<span style='color: white'>Copyright &copy; 
                     $("a#smReader").attr("onclick","ReaderModal();").attr("data-toggle","modal").attr("data-target","#ReaderModal");
                     }else{
                         $("#logout").remove();
-                        $("#log").empty().append($("<a class='btn btn-sm btn-danger' href='#' id='login' style='color: white'><i class='fa fa-key'></i><b> LOGIN</b></a>"))
+                        $("#log").empty().append($("<a class='btn btn-sm btn-success' href='#' id='login' style='color: white'><i class='fa fa-key'></i><b> LOGIN</b></a>"))
                         $("a#login").attr("onclick","popup('login_page.html', popup, 400, 300);"); 
                     }
        
